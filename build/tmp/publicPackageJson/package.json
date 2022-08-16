@@ -1,0 +1,12 @@
+{
+  "name": "KataCartaMasAlta",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "KataCartaMasAlta.js",
+  "devDependencies": {
+    "source-map-support": "0.5.21"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

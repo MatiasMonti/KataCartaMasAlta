@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CardGameTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-08-16T16:55:20" hostname="DESKTOP-BQ618PG" time="0.024">
+  <properties/>
+  <testcase name="player1Win3to2[node]" classname="CardGameTest" time="0.002"/>
+  <testcase name="player1Win10to9[node]" classname="CardGameTest" time="0.001"/>
+  <testcase name="player2Win3to2[node]" classname="CardGameTest" time="0.0"/>
+  <testcase name="player2Win10to9[node]" classname="CardGameTest" time="0.0"/>
+  <testcase name="draw3to3[node]" classname="CardGameTest" time="0.001"/>
+  <testcase name="player1InvalidCard[node]" classname="CardGameTest" time="0.001"/>
+  <testcase name="player2InvalidCard[node]" classname="CardGameTest" time="0.002"/>
+  <testcase name="player1WinQto10[node]" classname="CardGameTest" time="0.0"/>
+  <testcase name="player1WinAtoQ[node]" classname="CardGameTest" time="0.002"/>
+  <testcase name="player2WinKtoQ[node]" classname="CardGameTest" time="0.001"/>
+  <testcase name="playGameAllInvalidCards[node]" classname="CardGameTest" time="0.002"/>
+  <testcase name="player1WinsTheGame2Rounds[node]" classname="CardGameTest" time="0.001"/>
+  <testcase name="player2WinsTheGame2Rounds[node]" classname="CardGameTest" time="0.001"/>
+  <testcase name="player2WinsTheGame2RoundsOnlyByOne[node]" classname="CardGameTest" time="0.001"/>
+  <testcase name="drawGame2Rounds[node]" classname="CardGameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
