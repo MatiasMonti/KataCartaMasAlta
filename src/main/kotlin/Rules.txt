@@ -1,0 +1,19 @@
+carta más alta
+    Se trata del juego de la carta más alta entre 2 jugadores
+
+    Se determina a priori el número de jugadas
+    En cada jugada, cada jugador lanza una carta de forma simultánea
+    El jugador con la carta más alta, anota un punto a su favor
+    Si las cartas tienen el mismo valor, no se incrementa los puntos de ningún jugador
+    Terminado el número de jugadas predeterminadas, gana el jugador con más puntos
+    Si el número de puntos es el mismo, se produce un empate
+    Las cartas son 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A siento este el orden del valor de la carta del menor al mayor
+    Diseñar un programa que determine quien gana:
+
+    El programa recibe 2 secuencias de cartas de cada jugador en el orden en que serán jugadas
+    El parámetro 1 correspnderá a la secuencia del jugador 1 y el parámetro 2 del jugador 2
+    El programa devolverá un mensaje indicando «Gana jugador 1 X a Y», «Gana jugador 2 por Y a X», «Empate» (siendo X la puntuación del jugador 1 e Y la puntuación del jugador 2
+
+    no aclarados, decision personal:
+    En caso de que algun jugador haya jugado mas cartas que el numero de jugadas determinado anteriormente se jugara la partida sin tener en cuenta los sobrantes.
+    En caso de Inresar una carta no valida esa ronda sera un empate

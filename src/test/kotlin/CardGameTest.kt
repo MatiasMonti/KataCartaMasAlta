@@ -94,5 +94,10 @@ var myCardGame2rounds: CardGame = CardGame(2)
         var result = myCardGame2rounds.playGame(listOf("J","8"), listOf("J","8"))
         assertEquals(DefaultMessages.GameDraw.message,result)
     }
+    @Test
+    fun moreCardsThanRounds(){
+        var result = myCardGame2rounds.playGame(listOf("J","8","R"), listOf("J","8"))
+        assertEquals(DefaultMessages.GameDraw.message,result)
+    }
 }
 
